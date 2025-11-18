@@ -1,0 +1,7 @@
+{
+  "name": "NUPDEC Autenticação",
+  "description": "Página de login e cadastro para o sistema NUPDEC.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
